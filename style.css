@@ -1,0 +1,25 @@
+h1{
+  color:blue; 
+  background-color: yellow;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+li {
+  background-color: gainsboro;
+}
+
+#make-me-orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+img {
+  width: 100%;
+}
+
